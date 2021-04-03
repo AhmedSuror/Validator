@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Validator")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription(".NET Input Validator")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Validator")]
-[assembly: AssemblyCopyright("Copyright ©  2006")]
+[assembly: AssemblyCopyright("Copyright ©  AS 2009 - 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
