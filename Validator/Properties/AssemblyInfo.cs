@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Validator")]
-[assembly: AssemblyCopyright("Copyright ©  AS 2009 - 2021")]
+[assembly: AssemblyCopyright("Copyright © AS 2009 - 2026")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
